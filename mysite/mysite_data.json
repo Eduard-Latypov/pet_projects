@@ -1,0 +1,1069 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-07-05T17:01:05.703Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Ге́нри Форд",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-07-05T17:05:14.650Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Форд Тримотор",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-07-05T17:54:27.311Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Форд Тримотор",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-07-05T17:54:31.982Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Ге́нри Форд",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-07-05T17:56:11.599Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Superior Electoral Court",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-07-05T17:57:07.382Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Alexandre de Moraes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-07-07T11:02:12.081Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Wagner Group",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-07-07T11:03:08.283Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Origins and leadership",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-07-07T11:04:03.252Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Far-right elements",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-07-07T11:04:49.887Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Saint Petersburg",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-07-07T11:05:23.244Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Russian Orthodox Church",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-07-07T11:06:09.005Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Russian language",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-07-08T15:50:11.251Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Russian Orthodox Church",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-07-08T15:50:32.313Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Saint Petersburg",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-07-09T16:23:49.217Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-07-09T16:40:46.166Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$fm4ayEAoIivg7MVU8RHzjx$SZ03bjuSKmQFygbJbqSc/TAg7Qy644Je157227ViL/M=",
+    "last_login": "2023-07-05T16:32:57.197Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-07-05T16:25:11.949Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8ojwg4wxqdkia76h0ruw9x6igicyey5a",
+  "fields": {
+    "session_data": ".eJxVjEsOAiEQBe_C2hA-0oJL956BNE0jowaSYWZlvLtOMgvdvqp6LxFxXWpcB89xyuIstDj8bgnpwW0D-Y7t1iX1tsxTkpsidzrktWd-Xnb376DiqN-adUCPKitwCUo4uZTV0RQwBJYZiBSU5LUvyQE7mwOGQKVoa0gpo0G8P--4OAQ:1qH5R3:NFffGFN19PfTkHKrM-tXCkd0ebqSfvFbUS0bSK5FV0c",
+    "expire_date": "2023-07-19T16:32:57.201Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Superior Electoral Court",
+    "slug": "superior_electoral_court",
+    "body": "Background and legal provisions\r\n\r\nThe Brazilian Electoral Code of 1932 established the Electoral Justice in Brazil, replacing the political system conducted by the Legislative branch over the electoral proceedings.[2] The new judicial system transferred control over such proceedings to the Judiciary. In the present, duties of the Electoral Justice are regulated by a posterior Electoral Code, approved in 1965 (Law No. 4.737/65),[3] which revoked the 1932 code, but kept the judicial control over the electoral proceedings.\r\n\r\nThe Superior Electoral Court is the highest judicial body of the Brazilian Electoral Justice as per the §3 of the Article 121 of the Brazilian Constitution of 1988, which sets that the decisions of the TSE are unappealable, except those contrary to the Constitution, or that deny habeas corpus or writs of mandamus. Therefore, in such exceptions, the Supreme Federal Court (STF) judges appeals filed against the TSE's rulings.\r\n\r\nThe composition of the TSE is ruled by the Article 119 of the Constitution of Brazil, which sets that the court shall be composed by seven members. Three of them shall be elected by secret vote from among the Justices of the STF and two other judges shall be elected by secret vote from among the Justices of the Superior Court of Justice (STJ). The remaining two shall be appointed by the President of Brazil from among six lawyers of notable juridical knowledge and good moral reputation nominated by the STF.",
+    "publish": "2023-07-05T17:55:10Z",
+    "created": "2023-07-05T17:56:11.598Z",
+    "updated": "2023-07-05T17:56:11.598Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Alexandre de Moraes",
+    "slug": "alexandre_de_moraes",
+    "body": "Married with three children, Alexandre de Moraes studied at the Law Faculty of the University of São Paulo, graduating in 1990.[6]\r\n\r\nDe Moraes is an associate professor of the Law School, University of São Paulo (USP). He received a doctorate in State Law from the same university under the supervision of professor Dalmo Dallari, with a thesis about constitutional jurisdiction.[7]\r\n\r\nHe was a member of the Brazilian Social Democracy Party (PSDB). In 2002, he was appointed Secretary of Public Security of the State of São Paulo.[6] His management was controversial: he was accused of covering up police violence. One out of every four homicides in the city of São Paulo was committed by the police. In addition, Alexandre de Moraes sent armoured vehicles to suppress left-wing demonstrations.[8]\r\n\r\nAlexandre de Moraes has been involved in several corruption related scandals,[9][10] Alexandre de Moraes is suspected of receiving [11]$4 million[12][13][14][15][16][17] from a company that was part of the nation's largest graft scheme investigated by the Federal Police.[9][10][11][18][19][20] Despite several corruption allegations and controversies[9][11][10][21][16] De Moraes was nominated minister of the Supreme Federal Court by president Michel Temer on 22 February 2017,[16] succeeding minister Teori Zavascki, who was killed on 19 January 2017 in a plane crash,[22] while overseeing the investigation of politicians linked to the nation's largest graft scheme.[23][16]\r\n\r\nAt the beginning of 2016, he was called upon by Michel Temer. The latter was living under the threat of a hacker who had hacked into the cell phone of his wife, Marcela Temer, and demanded 300,000 reais under penalty of releasing compromising information and photos. Alexandre de Moraes quickly mobilized his police force, assembled a team of 33 investigators and arrested the blackmailer.[8]\r\n\r\nAlexandre de Moraes assumed office on 22 March 2017. As minister, he claims to defend a policy of \"zero tolerance\". He denounced the alleged \"criminal attitudes\" of leftist movements and justified police violence. He was at the centre of another controversy when the Brazilian newspaper Estadão published an investigation claiming that he had intervened to defend the Transcooper cooperative, suspected of being linked to Brazil's main drug trafficking group, the First Command of the Capital (PCC), which he denied.[6]\r\n\r\nOn 10 June 2020, de Moraes – in response to a legal challenge from three political parties – said the health ministry must \"fully re-establish the daily divulgation of epidemiological data on the Covid-19 pandemic\", including on its website: «Mr Moraes gave President Jair Bolsonaro's government 48 hours to release the full figures again».[24]\r\n\r\nOn 16 August 2022, de Moraes was elected as the presiding justice of the Superior Electoral Court, in a public ceremony with 2000 guests at the court auditorium. The justice Ricardo Lewandowski took place as his vice-president on duty.",
+    "publish": "2023-07-05T17:56:15Z",
+    "created": "2023-07-05T17:57:07.381Z",
+    "updated": "2023-07-05T17:57:07.381Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "New title",
+    "slug": "another_post",
+    "body": "This is another post",
+    "publish": "2023-07-07T07:59:17.119Z",
+    "created": "2023-07-07T07:59:27.610Z",
+    "updated": "2023-07-07T08:09:00.046Z",
+    "status": "DF",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Wagner Group",
+    "slug": "wagner-group",
+    "body": "The Wagner Group (Russian: Группа Вагнера, tr. Gruppa Vagnera), officially known as PMC Wagner[6] (Russian: ЧВК[a] «Вагнер», tr. ChVK «Vagner»[56]; lit. 'Wagner Private Military Company'), is a Russian state-funded[57] paramilitary organization.[6] It is a private military company (PMC) composed of mercenaries, and has been described as a de facto private army of Russian President Vladimir Putin's former close ally Yevgeny Prigozhin.[6][58] The group operates beyond the law in Russia, where private military companies are officially forbidden.[59][60][58] There is evidence that Wagner was used as a proxy by the Russian government, allowing the Russian state to have plausible deniability for military operations abroad, and allowing it to hide the true casualties of Russia's foreign interventions.[61][62] Wagner used Russian Armed Forces infrastructure[61] and was secretly funded by the Russian state until 2023.[57] While the group is not ideologically driven,[63][64] elements of Wagner are linked to neo-Nazism and far-right extremism.[6][65][66]\r\n\r\nThe group was founded in 2014 by former GRU officer Dmitry Utkin and businessman Yevgeny Prigozhin. It came to prominence during the Donbas War in Ukraine, where it helped pro-Russian separatist forces from 2014 to 2015.[6] Its contractors have reportedly taken part in conflicts around the world, including the civil wars in Syria, Libya, the Central African Republic and Mali, often fighting on the side of forces aligned with the Russian government.[6] Wagner operatives are accused of committing war crimes including murder, torture, rape and robbery of civilians,[6][67][68][69] as well as torturing accused deserters.[70][71]\r\n\r\nWagner played a significant role in the Russian invasion of Ukraine,[72] for which it recruited prison inmates from Russia for frontline combat.[73][74] By the end of 2022, its strength had grown from 1,000 to between 20,000 and 50,000.[75][76][77] In 2023, Russia granted combat veteran status to Wagner contractors who took part in the invasion.[78]\r\n\r\nPrigozhin admitted being the leader of Wagner in September 2022.[79][80] He began openly criticizing the Russian MoD for mishandling the war against Ukraine. On 23 June 2023, Prigozhin launched an armed rebellion after accusing the Russian MoD of killing Wagner soldiers. Wagner units withdrew from Ukraine and seized the Russian city of Rostov-on-Don, while a Wagner convoy headed towards Moscow. The mutiny was halted the next day when a deal was brokered by Belarusian president Alexander Lukashenko.",
+    "publish": "2023-07-07T11:00:40Z",
+    "created": "2023-07-07T11:02:12.079Z",
+    "updated": "2023-07-07T11:02:12.079Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Origins and leadership",
+    "slug": "origins-and-leadership",
+    "body": "Dmitriy Valeryevich Utkin, a veteran of the First and Second Chechen wars, reportedly founded the group, which was named from his call sign \"Wagner\".[82][83][84] Until 2008[84] or 2013, Utkin served as lieutenant colonel and brigade commander of a unit of Spetsnaz GRU, the 700th Independent Spetsnaz Detachment of the 2nd Independent Brigade.[85][8][86][87]\r\n\r\nAfter leaving the military, in 2013 Utkin began working for the Moran Security Group, a private company founded by Russian military veterans, which was involved in security and training missions worldwide, and specializes in security against piracy. The same year, senior Moran Security Group managers were involved in setting up the Hong Kong-based Slavonic Corps,[88] which headhunted contractors to \"protect oil fields and pipelines\" in Syria during its civil war.[8] Utkin was deployed in Syria as a member of the Slavonic Corps, surviving its disastrous mission.[85] Subsequently, Russia's Federal Security Service arrested some members of the Slavonic Corps for illegal mercenary activity in November 2013.[89]\r\n\r\nIn December 2016, Utkin was photographed with Russian President Vladimir Putin at a Kremlin reception given in honour of those who had been awarded the Order of Courage and the title Hero of the Russian Federation (to mark the Day of Heroes of the Fatherland [ru]), along with Alexander Kuznetsov, Andrey Bogatov [ru] and Andrei Troshev.[90] Kuznetsov (call sign \"Ratibor\") was said to be the commander of Wagner's first reconnaissance and assault company, Bogatov was the commander of the fourth reconnaissance and assault company, and Troshev served as the company's \"executive director\".[91] A few days after, Kremlin spokesman Dmitry Peskov confirmed the presence of Utkin at the reception, stating that Utkin was from the Novgorod Region and had received the award, but could not say for what except that it was presumably for courage. Peskov stated he was not aware how famous Utkin was.",
+    "publish": "2023-07-07T11:02:15Z",
+    "created": "2023-07-07T11:03:08.282Z",
+    "updated": "2023-07-07T11:03:08.282Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Far-right elements",
+    "slug": "far-right-elements",
+    "body": "The Wagner Group has been linked to far-right extremism, including white supremacy and neo-Nazism.[65][107][66][108][109] Many founding members of Wagner belong to the far-right ultranationalist Russian Imperial Movement.[108] Wagner's co-founder, Dmitry Utkin, is reportedly a neo-Nazi and has several Nazi tattoos.[110][111][107][109] The name \"Wagner\" itself comes from Utkin's own call sign \"Wagner\". He is said to have chosen the name in honor of German composer Richard Wagner, because Adolf Hitler admired his music.[112][107] Members of Wagner Group say Utkin is a Rodnover, a follower of Slavic native faith.[113] A Wagner sub-group, \"Rusich\", was founded by self-proclaimed neo-Nazi Alexey Milchakov and is open about its far-right ideology.[114][115][116][117] Wagner members have also left neo-Nazi graffiti on the battlefield,[66][118] such as swastikas and the SS emblem.[108][109]\r\n\r\nHowever, Erica Gaston, a senior policy adviser at the UN University Centre for Policy Research, noted that the Wagner Group is not driven by ideology, but is rather a network of mercenaries \"linked to the Russian security state\".",
+    "publish": "2023-07-07T11:03:25Z",
+    "created": "2023-07-07T11:04:03.251Z",
+    "updated": "2023-07-07T11:04:03.251Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Saint Petersburg",
+    "slug": "saint-petersburg",
+    "body": "Saint Petersburg,[a] formerly known as Petrograd (1914–1924) and later Leningrad (1924–1991; see below), is the second-largest city in Russia. It is situated on the Neva River, at the head of the Gulf of Finland on the Baltic Sea. The city had a population of roughly 5.6 million residents as of 2021.[4] Saint Petersburg is the fourth-most populous city in Europe, the most populous city on the Baltic Sea, and the world's northernmost city of more than 1 million residents. As Russia's Imperial capital, and a historically strategic port, it is governed as a federal city.\r\n\r\nThe city was founded by Tsar Peter the Great on 27 May 1703 on the site of a captured Swedish fortress, and was named after apostle Saint Peter. In Russia, Saint Petersburg is historically and culturally associated with the birth of the Russian Empire and Russia's entry into modern history as a European great power.[9] It served as a capital of the Tsardom of Russia, and the subsequent Russian Empire, from 1713 to 1918 (being replaced by Moscow for a short period of time between 1728 and 1730).[10] After the October Revolution in 1917, the Bolsheviks moved their government to Moscow.[11] The city was renamed Leningrad after Lenin's death in 1924. In a wave of De-Leninization following the dissolution of the USSR, the city was restored to its original appellation.\r\n\r\nAs Russia's cultural centre,[12] Saint Petersburg received over 15 million tourists in 2018.[13][14] It is considered an important economic, scientific, and tourism centre of Russia and Europe. In modern times, the city has the nickname of being \"the Northern Capital of Russia\" and is home to notable federal government bodies such as the Constitutional Court of Russia and the Heraldic Council of the President of the Russian Federation. It is also a seat for the National Library of Russia and a planned location for the Supreme Court of Russia, as well as the home to the headquarters of the Russian Navy, and the Western Military District of the Russian Armed Forces. The Historic Centre of Saint Petersburg and Related Groups of Monuments constitute a UNESCO World Heritage Site. Saint Petersburg is home to the Hermitage, one of the largest art museums in the world, the Lakhta Center, the tallest skyscraper in Europe, and was one of the host cities of the 2018 FIFA World Cup and the UEFA Euro 2020.",
+    "publish": "2023-07-07T11:04:09Z",
+    "created": "2023-07-07T11:04:49.886Z",
+    "updated": "2023-07-08T15:50:32.308Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Russian Orthodox Church",
+    "slug": "russian-orthodox-church",
+    "body": "The Russian Orthodox Church (ROC; Russian: Ру́сская правосла́вная це́рковь, romanized: Rússkaya pravoslávnaya tsérkov), alternatively legally known as the Moscow Patriarchate (Russian: Моско́вский патриарха́т, romanized: Moskóvskiy patriarkhát),[12] is an autocephalous Eastern Orthodox Christian church. It has 194 dioceses inside Russia.[13] The primate of the ROC is the Patriarch of Moscow and all Rus'.\r\n\r\nThe Christianization of Kievan Rus' commenced in 988 with the baptism of the Rus' Grand Prince of Kiev — Vladimir the Great — and his people by the clergy of the Ecumenical Patriarch of Constantinople. The ecclesiastical title of Metropolitan of Kiev and all Rus' remained in the jurisdiction of the Ecumenical Patriarchate until 1686.\r\n\r\nThe ROC currently claims exclusive jurisdiction over the Eastern Orthodox Christians, irrespective of their ethnic background, who reside in the former member republics of the Soviet Union, excluding Georgia. The ROC also created the autonomous Church of Japan and Chinese Orthodox Church. The ROC eparchies in Belarus and Latvia, since the fall of the Soviet Union in the 1990s, enjoy various degrees of self-government, albeit short of the status of formal ecclesiastical autonomy.\r\n\r\nThe ROC should also not be confused with the Russian Orthodox Church Outside of Russia (or ROCOR, also known as the Russian Orthodox Church Abroad), headquartered in the United States. The ROCOR was instituted in the 1920s by Russian communities outside the Soviet Union, which had refused to recognise the authority of the Moscow Patriarchate that was de facto headed by Metropolitan Sergius Stragorodsky. The two churches reconciled on 17 May 2007; the ROCOR is now a self-governing part of the Russian Orthodox Church.",
+    "publish": "2023-07-07T11:04:52Z",
+    "created": "2023-07-07T11:05:23.243Z",
+    "updated": "2023-07-08T15:50:11.243Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "Russian language",
+    "slug": "russian-language",
+    "body": "Russian (русский язык, russkij jazyk, IPA: [ˈruskʲɪj jɪˈzɨk]) is an East Slavic language mainly spoken in Russia. It is the native language of the Russians and belongs to the Indo-European language family. It is one of four living East Slavic languages,[h] and is also a part of the larger Balto-Slavic languages. It was the de facto and de jure[24] official language of the former Soviet Union.[25] Russian has remained an official language in independent Russia, Belarus, Kazakhstan, and Kyrgyzstan, and is still commonly used as a lingua franca in Ukraine, the Caucasus, Central Asia, and to a lesser extent in the Baltic states and Israel.[26][27][28][29]\r\n\r\nRussian has over 258 million total speakers worldwide.[30] It is the most spoken Slavic language,[31] and the most spoken native language in Europe,[32] as well as the most geographically widespread language of Eurasia.[31] It is the world's seventh-most spoken language by number of native speakers, and the world's eighth-most spoken language by total number of speakers.[33] Russian is one of two official languages aboard the International Space Station,[34] as well as one of the six official languages of the United Nations.[35]\r\n\r\nRussian is written using the Russian alphabet of the Cyrillic script; it distinguishes between consonant phonemes with palatal secondary articulation and those without—the so-called \"soft\" and \"hard\" sounds. Almost every consonant has a hard or soft counterpart, and the distinction is a prominent feature of the language. Another important aspect is the reduction of unstressed vowels. Stress, which is often unpredictable, is not normally indicated orthographically,[36] though an optional acute accent may be used to mark stress – such as to distinguish between homographic words (e.g. замо́к (zamók, 'lock') and за́мок (zámok, 'castle')), or to indicate the proper pronunciation of uncommon words or names.",
+    "publish": "2023-07-07T11:05:48Z",
+    "created": "2023-07-07T11:06:09.005Z",
+    "updated": "2023-07-07T11:06:09.005Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "body": "This is a post formatted with markdown\r\n------------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2023-07-09T16:15:52Z",
+    "created": "2023-07-09T16:23:49.208Z",
+    "updated": "2023-07-09T16:23:49.208Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 11,
+    "name": "Eddy",
+    "email": "PaffTaddy@gmail.com",
+    "body": "This comment has added in 17:58",
+    "created": "2023-07-08T14:58:55.809Z",
+    "updated": "2023-07-08T14:58:55.809Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 11,
+    "name": "Sonya",
+    "email": "sonya@mail.ru",
+    "body": "This is my comment. Please, do not delete him!",
+    "created": "2023-07-08T15:00:14.067Z",
+    "updated": "2023-07-08T15:00:14.068Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 11,
+    "name": "Frank",
+    "email": "Frank@gmail.com",
+    "body": "Hello everyone! i`m glad to read you!",
+    "created": "2023-07-08T15:01:44.900Z",
+    "updated": "2023-07-08T15:01:44.900Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "russia",
+    "slug": "russia"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "language",
+    "slug": "language"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "church",
+    "slug": "church"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "museum",
+    "slug": "museum"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "city",
+    "slug": "city"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 12
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
